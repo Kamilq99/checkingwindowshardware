@@ -45,3 +45,5 @@ Ten skrypt Batch został stworzony w celu uzyskania podstawowych informacji o sy
 ## Przykład wyjścia
 
 Po uruchomieniu skryptu, konsola wyświetli informacje w poniższym formacie:
+
+![image](https://github.com/Kamilq99/checkingwindowshardware/assets/83961352/faea3a23-8715-41fe-84dd-dfa260a58cd6)
